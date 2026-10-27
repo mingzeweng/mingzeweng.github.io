@@ -14,8 +14,8 @@ To preview locally, run `python3 -m http.server 8766` and open `http://localhost
 Research previews are excerpts from the corresponding project demonstrations and paper figures. The relevant papers and project pages are linked beside each preview.
 
 Covers use complete original published figures, preserving all panels, labels,
-native colors and aspect ratios on white. Hy-Nomas uses the full Figure 1. Hunyuan-Game keeps
-its selected reference/structure/result composition.
+native colors and aspect ratios on white. Hy-Nomas uses the full Figure 1. Hunyuan-Game uses
+the complete original Figure 19 character-consistency pipeline.
 
 
 Previews remain silent 5–8 second excerpts. Hover plays a clip; leaving restores
